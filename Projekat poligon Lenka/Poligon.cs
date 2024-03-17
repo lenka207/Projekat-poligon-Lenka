@@ -43,7 +43,6 @@ namespace Projekat_poligon_Lenka
             if ((plusevi == 0) || plusevi == broj_temena) return true;
             else return false;
         }
-
         public bool Prost()
         {
             for (int i = 0; i < broj_temena; i++)

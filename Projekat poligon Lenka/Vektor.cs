@@ -51,6 +51,7 @@ namespace Projekat_poligon_Lenka
                 return ugaoB - ugaoA + 360;
             }
             return ugaoB - ugaoA;
+
         }
     }
 }

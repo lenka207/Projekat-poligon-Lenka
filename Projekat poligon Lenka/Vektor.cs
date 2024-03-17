@@ -37,7 +37,6 @@ namespace Projekat_poligon_Lenka
             Tacka A_c = centriraj(A);
             Tacka B_c = centriraj(B);
             return A_c.x * B_c.y - A_c.y * B_c.x;
-
         }
         public static double ugao(vektor A, vektor B)
         {
